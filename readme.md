@@ -1,6 +1,6 @@
-# BAE CHANWOO 배찬우 (Dany)
+# BAE CHANWOO 배찬우
 
-👩‍💻 Backend Developer  
+👩‍💻 Data Engineer & Backend Engineer
 
 ### Experiences
 
